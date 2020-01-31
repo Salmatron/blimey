@@ -1,0 +1,17 @@
+{
+    "name": "salmatron/blimey",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Salman Abbas",
+            "email": "salmanabbas007@gmail.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Salmatron\\Blimey\\": "src/"
+        }
+    }
+}

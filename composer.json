@@ -7,6 +7,7 @@
             "email": "salmanabbas007@gmail.com"
         }
     ],
+    "license": "MIT",
     "require": {
     },
     "autoload": {
